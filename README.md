@@ -19,5 +19,5 @@ In this example, we demonstrate a *long short term memory* neural network. We ar
 ___
 
 **_Constantine Doukas_** 
-_^2018^_
+2018
 
